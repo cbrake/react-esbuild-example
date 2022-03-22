@@ -1,2 +1,9 @@
-# react-esbuild-example
-example of using react and esbuild 
+# Esbuild/React example
+
+This is an example of using Esbuild and React.
+
+##
+
+- `npm install`
+- `npm run build`
+- `chromium index.hmtl`
